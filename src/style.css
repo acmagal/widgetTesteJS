@@ -13,6 +13,10 @@ html, * {
 
 body {
   margin: 0;
+  background-image: url(https://files.monday.com/use1/4299647/resources/1214662149/large-Sem%20t%C3%ADtulo.png?response-content-disposition=attachment&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4MPVJMFXILAOBJXD%2F20240111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240111T204954Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=88783809feb66b112eb1ecea71a3826362faf8b6d49b5c383414aa7029f99d42);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
 }
 
 h1 {
